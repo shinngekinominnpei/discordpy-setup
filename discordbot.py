@@ -20,7 +20,7 @@ async def ping(ctx):
 
 @bot.command()
 async def beru(ctx):
-    await ctx.send('beru'):
+    await ctx.send('ベル'):
 
 
     bot.run(token)
