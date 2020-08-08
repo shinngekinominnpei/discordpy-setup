@@ -19,7 +19,7 @@ async def ping(ctx):
 
 
 @bot.command()
-async def ベル(ctx):
-    await ctx.send('☆木曜日：開始 23:00~ 集結 ~22:45ｳｨｽ(´・ω・｀)ﾉｳｨｽ☆')
+async def beru(ctx):
+    await ctx.send('☆木曜日：開始 23:00~ 集結 ~22:45☆日曜日：開始14:00~ 集結 ~13:45☆ｳｨｽ(´・ω・｀)ﾉｳｨｽ☆')
     
 bot.run(token)
